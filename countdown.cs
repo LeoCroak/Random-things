@@ -25,7 +25,7 @@ namespace Countdown {
                 Thread.Sleep(1000);
             }
 
-            Console.WriteLine("Time is up!");
+            Console.WriteLine("Time is up!"); // when timer is done
         }
     }
 }
