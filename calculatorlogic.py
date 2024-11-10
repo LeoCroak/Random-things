@@ -1,3 +1,5 @@
+#original code found on https://github.com/LeoCroak/Random-things/blob/main/calculatorlogic.py
+
 num1 = input("Enter your first number:")
 symbol = input("enter your operator:")
 num2 = input("Enter your second number:")
