@@ -1,5 +1,6 @@
+// original code found on https://github.com/LeoCroak/Random-things/blob/main/countdown.cs
 using System;
-using System.Threadding;
+using System.Threading;
 
 namespace Countdown {
     class Timerlogic {
