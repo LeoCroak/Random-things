@@ -12,14 +12,14 @@ while True:
         num1 = input("Invalid input. enter a number:")
 
 while symbol not in ["*", "/", "-", "+"]:
-    symbol = input("Enter your operator:")
+    symbol = input("Enter your operator (+, -, /, *):")
 
 while True:
     try:
         num2 = float(num2)
         break
     except ValueError:
-        num2 = input("Invalid.Enter your second number:")
+        num2 = input("Invalid input.Enter your second number:")
 
 
 #performs the actual maths
